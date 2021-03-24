@@ -2,13 +2,13 @@
   width: 600px;
   padding: 40px;
   border-radius: 7px;
-  box-shadow: 0 7px 15px rgba(0, 0, 0, 0.397);
+  box-shadow: 0 7px 15px rgba(0, 0, 0, 0.555);
   height: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgba(90, 141, 156, 0.315);
+  background-color: rgba(125, 170, 184, 0.315);
 }
 
 .formTitle {
