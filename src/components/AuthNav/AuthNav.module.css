@@ -1,0 +1,11 @@
+.navLink {
+  display: inline-block;
+  text-decoration: none;
+  font-weight: 700;
+  color: #dd1461;
+  padding: 10px;
+}
+
+.activeNavLink {
+  color: #4aa9e8;
+}
